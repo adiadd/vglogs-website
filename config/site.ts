@@ -1,18 +1,15 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
-  description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
-  mainNav: [
-    {
-      title: "Home",
-      href: "/",
-    },
-  ],
+  name: "vGlogs",
+  description: "Network with Gamers and Build Your Gaming Resume 🏆🎮",
+  mainNav: [],
   links: {
-    twitter: "https://twitter.com/shadcn",
+    twitter: "https://twitter.com/vGlogsapp",
     github: "https://github.com/shadcn/ui",
     docs: "https://ui.shadcn.com",
+    instagram: "https://instagram.com/vGlogsapp",
+    playStore:
+      "https://play.google.com/store/apps/details?id=sss.vglogsapp&pcampaignid=web_share",
   },
 }
