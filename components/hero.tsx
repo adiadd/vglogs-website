@@ -15,7 +15,7 @@ export function Hero() {
     <section className="container grid items-center justify-center gap-6 pb-8 pt-6 md:py-10">
       <div className="flex max-w-[980px] flex-col items-start gap-2">
         <h1 className="justify-center pb-12 pt-40 text-center text-6xl font-extrabold leading-tight tracking-tighter md:text-7xl">
-          🏆 Network with Gamers <br className="hidden sm:inline" />
+          🏆 Network with Gamers & <br className="hidden sm:inline" />
           Build Your Gaming Resume 🎮
         </h1>
       </div>
