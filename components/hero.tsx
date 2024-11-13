@@ -3,7 +3,7 @@ import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
 
-import VGlogsBanner from "./vglogs-banner"
+import Banner from "./vglogs-banner"
 
 // interface HeroProps {
 //   items?: NavItem[]
@@ -12,7 +12,7 @@ import VGlogsBanner from "./vglogs-banner"
 export function Hero() {
   return (
     <>
-      <VGlogsBanner />
+      <Banner />
       <section className="container grid items-center justify-center gap-6 pb-8 pt-6 md:py-10">
         <div className="flex max-w-[980px] flex-col items-start gap-2">
           <h1 className="justify-center pb-12 pt-40 text-center text-6xl font-extrabold leading-tight tracking-tighter md:text-7xl">

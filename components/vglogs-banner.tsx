@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react"
 import { X } from "lucide-react"
 
-export default function VGlogsBanner() {
+export default function Banner() {
   const [isVisible, setIsVisible] = useState(true)
   const [isLoaded, setIsLoaded] = useState(false)
 
