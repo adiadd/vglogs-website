@@ -17,7 +17,7 @@ export function Hero() {
         <div className="flex max-w-[980px] flex-col items-start gap-2">
           <h1 className="justify-center pb-12 pt-40 text-center text-6xl font-extrabold leading-tight tracking-tighter md:text-7xl">
             🏆 Network with Gamers & <br className="hidden sm:inline" />
-            Build Your Gaming Resume 🎮
+            Build Your Gaming Career 🎮
           </h1>
         </div>
         <div className="flex justify-center gap-4">
